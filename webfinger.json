@@ -1,0 +1,9 @@
+{
+  "subject": "acct:${christophe.irani@echalops.net}",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "http://echalops.net:9000/application/o/tailscale/"
+    }
+  ]
+}
