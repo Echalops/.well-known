@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://echalops.net/application/o/tailscale/"
+      "href": "http://192.168.0.48:9000/application/o/tailscale/"
     }
   ]
 }
