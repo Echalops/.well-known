@@ -4,12 +4,12 @@
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
       "type": "text/html",
-      "href": "http://192.168.0.48:9000/application/o/tailscale/"
+      "href": "https://auth.echalops.net/application/o/tailscale/"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "http://192.168.0.48:9000/application/o/tailscale/"
+      "href": "https://auth.echalops.net/application/o/tailscale/"
     }
   ]
 }
